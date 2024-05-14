@@ -1,13 +1,15 @@
 transformers
 transformers[sentecepiece]
 datasets
-sacreblue
+sacrebleu
 rouge_score
 py7zr
 nltk
 tqdm
 PyYAML
 matplotlib
+tensorflow==2.10.0
+tensorflow_gpu==2.10.0
 torch
 notebook
 boto3
